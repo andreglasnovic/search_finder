@@ -30,5 +30,5 @@ Creating the grid in PyGame was one the easier parts of this project. It was fai
 
 ### Conclusion
 
-While working on the final project we learned a lot about the practical implementation of search algorithms tat we covered in class such as BFS, DFS and A*. Rather htan just learning theory behind the algorithms, working on a real work implementation helped understand the algorithms more clearly. We all can't wait to apply the skilled learned in this project in our future academic and professional projects.
+While working on the final project we learned a lot about the practical implementation of search algorithms that we covered in class such as BFS, DFS and A*. Rather than just learning theory behind the algorithms, working on a real world implementation helped us understand the algorithms more clearly. We all can't wait to apply the skills learned while working on this project in our future academic and professional projects.
 
