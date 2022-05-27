@@ -1,4 +1,4 @@
-# Final Project - Searchfinding algorithms
+# Final Project - Pathfinding algorithms
 
 We built pathfinding game as a final project for Intro to AI course at the University of New Haven. The project covers some of the search algorithms that we covered in class. Throughtout the project we use python and it's modules to build algorithms, vizualisations and interface.
 
